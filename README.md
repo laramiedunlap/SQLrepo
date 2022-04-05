@@ -2,7 +2,7 @@
 We can find potential fraud in multiple ways. The most obvious first option would be to find card
 holders with a excess number of $2 transactions. To define "too many" small transactions, we should establish a baseline number of expected small transactions, then find outliers.
 
-![C:\Users\Laramie\Desktop\SQLasgn\SQLrepo\resources\numsmalltrnscbych.png]
+![pic1][(https://raw.githubusercontent.com/laramiedunlap/SQLrepo/main/resources/numsmalltrnscbych.png)]
 
 
 ### Exploring Deeper
