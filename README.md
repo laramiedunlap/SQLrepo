@@ -9,6 +9,7 @@ holders with a excess number of $2 transactions. To define "too many" small tran
 The above distribution doesn't appear to give any clear indication. Some people have very few, some have a lot, but generally speaking there aren't any enormous outliers. We can double check this by looking at the descriptive stats
 
 
+
 We can see there are 0 users who have two standard deviations outside of the mean. Furthermore,
 if you change the 'mask' variable to find users above and below the mean, they are pretty evenly distributed, which we saw at a glance from the bar chart. 
 
